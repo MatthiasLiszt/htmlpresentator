@@ -1,9 +1,0 @@
-// sets a yellow navigation bar on the bottom of a page
-
-$(document).ready(function(){
-
- console.log('jQuery running');
- var item0=$('<div id="presiconfBar">something</div>');
- $('div').before(item0);
- $("body").append($('<button>end</button>'));
-});
