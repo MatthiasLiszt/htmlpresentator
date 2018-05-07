@@ -4,7 +4,11 @@ generating presentations from markdown and html
 
 ## currently working
 
-currently working is now the primitive html part without markdown conversion
+* #### primitive HTML part 
+  (look at premises in how to use that) 
+
+* #### primitive markdown to HTML conversion with marked.js
+  (the HTML code has currently copied and pasted though)
 
 ### premises
 

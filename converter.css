@@ -1,0 +1,29 @@
+.left{
+ float: left;
+ margin-left: 4vw;
+}
+
+.right{
+ float: right;
+ margin-right: 4vw;
+}
+
+main{
+ clear: both;
+ display: flex;
+ justify-content: space-between;
+ margin: 4vw;
+}
+
+main textarea{
+ height: 80vh;
+ width: 40vw;
+}
+
+main div{
+ height: 80vh;
+ width: 40vw;
+ overflow: scroll;
+ //border: solid black;
+ background-color: lightgrey;
+}
