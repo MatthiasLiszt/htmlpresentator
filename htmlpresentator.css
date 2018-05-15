@@ -1,0 +1,25 @@
+
+nav{
+ background-color: lightgrey;
+ font-weight: bold;
+ font-size: 2em;
+ width: 100vw;
+}
+
+nav li{
+ padding-left: 3em;
+}
+
+iframe {
+ width: 100vw;
+ height: 60vh;
+ border: none;
+}
+
+#slideList{
+ width: 95vw;
+ height: 25vh;
+ border: solid black;
+ background-color: white;
+ overflow: scroll;
+}
